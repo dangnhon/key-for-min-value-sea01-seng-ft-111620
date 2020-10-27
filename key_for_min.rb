@@ -13,6 +13,3 @@ low_price = 100
  end
  puts lowest
 end
-
-
-
