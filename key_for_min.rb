@@ -11,5 +11,5 @@ low_price = 100
      lowest = name
    end
  end
- puts #{lowest} 
+ puts #{lowest}
 end
