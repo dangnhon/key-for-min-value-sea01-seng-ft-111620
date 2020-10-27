@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
 lowest = ""
-low_price = 100000000000000000
+low_price = 700
 
  name_hash.count do |name, price|
    if price < low_price
