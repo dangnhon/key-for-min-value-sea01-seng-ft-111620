@@ -9,7 +9,6 @@ low_price = 100
    if price < low_price
      low_price = price
      lowest = name
-
    end
  end
 lowest
