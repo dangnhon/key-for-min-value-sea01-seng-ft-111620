@@ -11,7 +11,7 @@ low_price = 100
      lowest = name
    end
    if name_hash == {}
-     return nil 
+     return nil
  end
 lowest
 end
