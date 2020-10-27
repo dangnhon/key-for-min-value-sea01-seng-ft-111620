@@ -8,7 +8,7 @@ low_price = 100
  name_hash.each do |name, price|
    if price < low_price
      low_price = price
-     lowest = name[price]
+     lowest = name
    end
  end
  puts lowest
