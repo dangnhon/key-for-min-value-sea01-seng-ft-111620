@@ -2,5 +2,14 @@
 # Given a hash with numeric values, return the key for the smallest value
 
 def key_for_min_value(name_hash)
+lowest = ""
+low_price = 50
+
+ hash.count do |name, price|
+   if price < low_price
+     lowest = name
+   end
+ end
+ puts lowest
 
 end
