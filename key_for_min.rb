@@ -9,8 +9,9 @@ low_price = 100
    if price < low_price
      low_price = price
      lowest = name
-     return lowest
+
    end
+   return lowest
  end
  nil
 end
