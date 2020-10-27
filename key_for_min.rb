@@ -13,3 +13,4 @@ low_price = 100
  end
  lowest
 end
+return nil
