@@ -11,7 +11,7 @@ low_price = 100
      lowest = name
 
    end
-   return lowest
+
  end
- nil
+ lowest
 end
