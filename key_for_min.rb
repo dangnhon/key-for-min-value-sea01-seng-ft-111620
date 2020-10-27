@@ -10,8 +10,10 @@ low_price = 100
      low_price = price
      lowest = name
      return lowest
+   elsif 
+     puts "empty" 
 
    end
  end
- puts "Empty Hash"
+ 
 end
