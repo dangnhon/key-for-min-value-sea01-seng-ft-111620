@@ -10,10 +10,10 @@ low_price = 100
      low_price = price
      lowest = name
      return lowest
-   elsif 
-     puts "empty" 
+   elsif
+     puts "empty"
 
    end
  end
- 
+
 end
