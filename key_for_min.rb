@@ -7,8 +7,8 @@ low_price = 100
 
  name_hash.count do |name, price|
    if price < low_price
-     price = low_price 
-     lowest = name 
+     price = low_price
+     lowest = name
    end
  end
  puts lowest
