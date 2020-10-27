@@ -9,10 +9,8 @@ low_price = 100
    if price < low_price
      low_price = price
      lowest = name
-   elsif name_hash == {}
-     return nil
 
    end
  end
-lowest
+lowest 
 end
