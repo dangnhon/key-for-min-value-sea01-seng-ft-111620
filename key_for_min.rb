@@ -12,6 +12,5 @@ low_price = 100
      return lowest
    end
  end
- nil 
+ nil
 end
-
